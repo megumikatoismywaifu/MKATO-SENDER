@@ -10,7 +10,7 @@
 | Send With BCC | ☑
 | Auto Create User CSV | ☑
 | Random Function | ☑
-| Email Tag Function | ☒
+| Email Tag Function | ⛔
 | Multy Config (racikan) | ☑
 | Random Attachments Name | ☑
 | Custom header | ☑
