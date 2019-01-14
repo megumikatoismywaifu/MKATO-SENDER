@@ -4,20 +4,21 @@
 | --- | --- | --- |
 | MKATO BCC SENDER v1.0 | 700.000 | Lifetime
 
-| Fitur | ---
+| Fitur | Status
 | --- | --- |
 | Support Windows (XAMPP) / Linux (Need PHP Installed)
-| Send With BCC | ✓
-| Auto Create User CSV | ✓
-| Random Function | ✓
-| Multy Config (racikan) | ✓
-| Random Attachments Name | ✓
-| Custom header | ✓
-| Support Encrypt Letter | ✓
-| No Limit User SMTP | ✓
-| Rotate User SMTP | ✓
-| Support Multi Tab/Terminal | ✓
-| Free Update | ✓
+| Send With BCC | ☑
+| Auto Create User CSV | ☑
+| Random Function | ☑
+| Email Tag Function | ☒
+| Multy Config (racikan) | ☑
+| Random Attachments Name | ☑
+| Custom header | ☑
+| Support Encrypted Letter | ☑
+| No Limit SMTP Users | ☑
+| Rotate SMTP Users | ☑
+| Support Multi Tab/Terminal | ☑
+| Free Update | ☑
 
 -----------------------------------------------------------------
 Contact to buy : https://web.facebook.com/sagirimanko
