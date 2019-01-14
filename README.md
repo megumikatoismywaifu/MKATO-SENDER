@@ -4,7 +4,7 @@
 | --- | --- | --- |
 | MKATO BCC SENDER v1.0 | 700.000 | Lifetime
 
-| Fitur | Status
+| Features | Status
 | --- | --- |
 | Support Windows (XAMPP) / Linux (Need PHP Installed)
 | Send With BCC | ☑
