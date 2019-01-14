@@ -6,7 +6,7 @@
 
 | Features | Status
 | --- | --- |
-| Support Windows (XAMPP) / Linux (Need PHP Installed)
+| Support Windows (XAMPP) / Linux (Need PHP Installed) | ☑
 | Send With BCC | ☑
 | Auto Create User CSV | ☑
 | Random Function | ☑
