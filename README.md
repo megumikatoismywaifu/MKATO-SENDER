@@ -11,7 +11,7 @@
 | Auto Create User CSV | ☑
 | Random Function Tag | ☑
 | Email Tag Function | ⛔
-| Multy Config (racikan) | ☑
+| Multi Config (racikan) | ☑
 | Random Attachments Name | ☑
 | Custom header | ☑
 | Custom replacement | ☑
