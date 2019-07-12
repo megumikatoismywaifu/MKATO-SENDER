@@ -9,15 +9,17 @@
 | Support Windows (XAMPP) / Linux (Need PHP Installed) | ☑
 | Send With BCC | ☑
 | Auto Create User CSV | ☑
-| Random Function | ☑
+| Random Function Tag | ☑
 | Email Tag Function | ⛔
 | Multy Config (racikan) | ☑
 | Random Attachments Name | ☑
 | Custom header | ☑
+| Custom replacement | ☑
 | Support Encrypted Letter | ☑
 | No Limit SMTP Users | ☑
 | Rotate SMTP Users | ☑
 | Support Multi Tab/Terminal | ☑
+| Support Multi Attachment | ☑
 | Free Update | ☑
 
 -----------------------------------------------------------------
