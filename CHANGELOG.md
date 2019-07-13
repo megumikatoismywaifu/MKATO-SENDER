@@ -20,6 +20,7 @@ Changelog
 
 ### Changed
 
-* [Support] Dropped support for PHP 7.3
+* [Support] Only support for PHP 7.3 (Windows Xampp)
+* [Support] Only support for PHP 7.2 (VPS)
 
 --------
