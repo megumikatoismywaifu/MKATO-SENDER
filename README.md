@@ -2,7 +2,7 @@
 
 | ITEM | HARGA | USAGE 
 | --- | --- | --- |
-| MKATO BCC SENDER v2.0 | 700.000 | Lifetime
+| MKATO BCC SENDER v2.0 | 1.000.000 | Lifetime
 
 | Features | Status
 | --- | --- |
