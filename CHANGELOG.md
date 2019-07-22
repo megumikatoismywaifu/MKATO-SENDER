@@ -24,3 +24,10 @@ Changelog
 * [Support] Only support for PHP 7.2 (VPS)
 
 --------
+## 2.0.1 - 2019-07-22
+
+### Fixed
+
+* [Feature] Bug encoding.
+
+--------
